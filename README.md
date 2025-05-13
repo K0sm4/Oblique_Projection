@@ -7,7 +7,7 @@ The simulation is based on a numerical integration of the equations of motion fo
 
 The app also uses a color map to display the height of the ball at each point along its trajectory. The color map is based on the maximum height achieved by the ball, with the highest point colored in red and the lowest point colored in blue. The app also includes a color bar that shows the percentage of the maximum height achieved at each point along the trajectory.
 
-# How 2 use
+# How to use
 The "MHprojekt" MATLAB app simulates a projectile motion of a ball thrown at an angle. The app has several sliders to adjust the parameters of the simulation:
 
 "SiawyrzutuSlider": adjusts the initial velocity of the ball.
